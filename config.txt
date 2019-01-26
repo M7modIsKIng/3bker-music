@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=
-game=Test
-stayinchannel=true
-songinstatus=false
-token=NTMxODIxNTUyOTc1NzQwOTI5.DxThCQ.wjum6oJcXh_KhP45GtvXEwOlDq4
+owner = 478975894061449216
+prefix = E 
+game = Eplay | OnlyEdward :notes:
+stayinchannel= false
+songinstatus= false
+token= NTM4MjgxOTQwNjc2MTE2NDgx.Dy32Xw.e9HWyn70ktXrBd3Qk-ZpmmmkaNk
